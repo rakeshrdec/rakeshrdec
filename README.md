@@ -7,25 +7,24 @@
     
     
     
-    👩‍💻 Your Name
+    👩‍💻 RAKESH MISHRA
 
-👩‍💼 Title/Position - Developer
+👩‍💼 Software - Developer
 
-📞 Contact Information
+📞 9891979411
 
-📧 Email Address: [Your Email Address]
-📱 Phone Number: [Your Phone Number]
+📧 Email Address: rakeshrdec1@gmail.com
+📱 Phone Number: 9891979411
 💻 Website: [Your Website]
 
 🔗 Social Media Links
 🔹 LinkedIn: [Your LinkedIn Profile]
 🔹 GitHub: [Your GitHub Profile]
-🔹 Twitter: [Your Twitter Profile]
-🔹 Other relevant social media profiles: [List any other relevant social media profiles]
+🔹 Twitter: [Your Twitter Profile
 
 🙋‍♀️ About Me
 
-[Write a brief introduction about yourself as a developer. Highlight your skills, experience, and passion for programming. Keep it concise and engaging.]
+I love to code and develop things doesn't matter in which teclogy is being done i can do with any language any techlogy and easily i am comfortable with any new tech and tool.
 
 🛠️ Skills
 
@@ -88,4 +87,4 @@
 
 [Example:]
 
-🥇 1st Place in Hackathon XYZ, 2020
+🥇 1st Place 
